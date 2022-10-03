@@ -6,7 +6,7 @@ This repository contains the source code for [rajumanukonda.github.io](http://ra
 
 - `assests`: Directory for CSS/JS/Images/Fonts
 - `index.html`: HomePage with Multiple-Sections of Content
-- `LICENSE.md`: MIT Licensing Terms and Conditions
+- `LICENSE`: MIT Licensing Terms and Conditions
 
 ## License
 
